@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KJHouse",
-    "currentPage": "photos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -14,13 +14,13 @@
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
         "display1Font": "Roboto",
-        "display1Size": 4.6,
+        "display1Size": "3",
         "display2Font": "Roboto",
         "display2Size": "2",
         "display5Font": "Roboto",
         "display5Size": "1.4",
         "display7Font": "Roboto",
-        "display7Size": "0.8",
+        "display7Size": "1",
         "display4Font": "Indie Flower",
         "display4Size": "1.8",
         "isRoundedButtons": false,
